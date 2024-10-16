@@ -1,1 +1,1 @@
-### Hello, I'm doing this to find important functions for lua and not forget, you can also learn with this!
+### Hello, I'm doing this to find important functions for luau and to not forget, you can also learn with this!
