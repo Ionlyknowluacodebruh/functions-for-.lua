@@ -101,3 +101,31 @@ print(num, " ", num1, " ", num2)
 -- math.huge
 
 -- returns the largest real number within the number float system
+
+
+-- math.round
+
+-- rounds a number to its nearest integer
+-- example:
+
+local num = 1.2
+local othernum = -12.6
+local roundfn = math.round(num)
+local roundsn = math.round(othernum)
+print(roundfn)
+print(roundsn)
+-- will print 1
+-- will print -13
+
+-- buts and whys
+
+-- if a number is halfway to its integers it gets round to its integer further from 0
+
+local num = 6.5
+local othernum = -0.5
+local roundfn = math.round(num)
+local roundsn = math.round(othernum)
+print(roundfn)
+print(roundsn)
+-- will print 7
+-- will print -1
