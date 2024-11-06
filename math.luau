@@ -96,3 +96,8 @@ print(num, " ", num1, " ", num2)
 -- will print a three huge numbers separated with spaces
 
 -- math.log10 is the same thing as math.log(number, 10)
+
+
+-- math.huge
+
+-- returns the biggest real number, like a "real infinity"
