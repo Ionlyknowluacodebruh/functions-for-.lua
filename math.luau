@@ -58,6 +58,7 @@ local radtodeg = math.deg(pi)
 local degtorad = math.rad(180)
 
 print(radtodeg)
+print(degtorad)
 -- prints 180
 -- prints pi's value
 
