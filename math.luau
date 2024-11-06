@@ -100,4 +100,4 @@ print(num, " ", num1, " ", num2)
 
 -- math.huge
 
--- returns the biggest real number, like a "real infinity"
+-- returns the largest real number within the number float system
