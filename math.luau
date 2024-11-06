@@ -93,7 +93,7 @@ local num = math.log(-10, 100)
 local num1 = math.log(10, -100)
 local num2 = math.log(-10, -100)
 print(num, " ", num1, " ", num2)
--- will print a three huge numbers separated with spaces
+-- will print three math.huge numbers separated with spaces
 
 -- math.log10 is the same thing as math.log(number, 10)
 
